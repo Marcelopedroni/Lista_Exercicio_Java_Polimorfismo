@@ -10,6 +10,7 @@ package exercicio3;
  * @author LocalHost
  */
 public class Forma {
+
     private String nome;
     private double area;
     private double perimetro;
@@ -29,5 +30,4 @@ public class Forma {
     public double getPerimetro() {
         return 0;
     }
-
-   
+}
